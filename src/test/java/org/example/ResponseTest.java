@@ -1,12 +1,14 @@
 package org.example;
 
-import edu.escuelaing.arep.ASE.app.Response;
-import org.junit.Test;
+import edu.escuelaing.arep.ASE.app.http.Response;
+import org.junit.jupiter.api.Test;
+
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintWriter;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 
 public class ResponseTest {
 

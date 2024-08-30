@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.ASE.app;
+package edu.escuelaing.arep.ASE.app.routes;
 
 import java.util.HashMap;
 import java.util.Map;

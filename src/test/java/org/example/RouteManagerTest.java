@@ -1,13 +1,14 @@
 package org.example;
 
 
-import edu.escuelaing.arep.ASE.app.Request;
-import edu.escuelaing.arep.ASE.app.Route;
-import edu.escuelaing.arep.ASE.app.RouteManager;
-import org.junit.Test;
+import edu.escuelaing.arep.ASE.app.http.Request;
+import edu.escuelaing.arep.ASE.app.routes.Route;
+import edu.escuelaing.arep.ASE.app.routes.RouteManager;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
 
 public class RouteManagerTest {
 

@@ -1,9 +1,10 @@
 package org.example;
 
-import edu.escuelaing.arep.ASE.app.Request;
-import org.junit.Test;
+import edu.escuelaing.arep.ASE.app.http.Request;
+import org.junit.jupiter.api.Test;
 
-import static junit.framework.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 public class RequestTest {
 
