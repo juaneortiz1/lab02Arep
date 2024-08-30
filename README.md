@@ -122,7 +122,7 @@ Tests can be run to ensure the correctness of the framework.
 ## Author
 
 - **Name**: Juan Esteban Ortiz Pastrana
-- **GitHub**: [[Your GitHub Profile](https://github.com/your-github-profile)](https://github.com/juaneortiz1)
+- **GitHub**: https://github.com/juaneortiz1
 - **Email**: juan.ortiz-p@mail.escuelaing.edu.co
 
 
